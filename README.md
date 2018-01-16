@@ -1,5 +1,5 @@
 # sen-down-pai
-Pythony python. Downloady down.
+Simple python scraper I made for my dad.
 
 Hey dad, here's how you use this
 create a file called 'files' (NO EXTENSION)
